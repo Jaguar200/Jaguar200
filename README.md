@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Java, C#, C, SQL, HTML, CSS, JavaScript**
 
-- 💬 Ask me about **C#, C, Java, HTML, CSS, JavaScript**
+- 💬 Ask me about **C#, C, Java, HTML, CSS, JavaScript ,React**
 
 - 📫 How to reach me **tharinda2u@gmail.com**
 
